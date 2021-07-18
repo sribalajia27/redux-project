@@ -2,7 +2,6 @@
   "name": "redux-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sribalajia27.github.io/redux-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
